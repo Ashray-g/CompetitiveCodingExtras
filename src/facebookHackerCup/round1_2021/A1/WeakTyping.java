@@ -1,4 +1,4 @@
-package facebookHackerCup.round1.A1;
+package facebookHackerCup.round1_2021.A1;
 
 import java.io.File;
 import java.io.FileWriter;
