@@ -1,4 +1,4 @@
-package alphastar.SAB;
+package alphastar.SAB.day1;
 
 import java.util.*;
 
