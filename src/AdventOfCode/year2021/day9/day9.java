@@ -41,6 +41,8 @@ public class day9 {
             }
         }
 
+        System.out.println(tot);
+
         TreeSet<Integer> top = new TreeSet<>();
 
         for(int i = 0;i<xs.size();i++){
