@@ -43,6 +43,11 @@
 //
 //        int n = arr.length;
 //        Point[][] parent = new Point[n][n];
+//        int[][] dist = new int[n][n];
+//        for(int[] h : dist){
+//            Arrays.fill(h, Integer.MAX_VALUE);
+//        }
+//        dist[start.y][start.x] = 0;
 //
 //        Stack<Point> st = new Stack<>();
 //        st.push(start);
